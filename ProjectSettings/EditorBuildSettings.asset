@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/MenuScane.unity"
+    guid: da61a637ce7dad54eb3985beea0c117b
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye1.unity"
+    guid: f6b1155c2b816654285234b064db1fdc
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/ObjectsScane.unity"
+    guid: 0d3ffe417fccbbd42ab4c1f54922f4c6
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/DeadScane.unity"
+    guid: aa87972c595fcf8429a9d2796b9e66de
+  - enabled: 1
+    path: Assets/Scenes/English/ObjectsScaneIng.unity
+    guid: b2ca8e55b43e3f743bc641e29e5b6028
+  - enabled: 1
+    path: Assets/Scenes/English/MenuScaneIng.unity
+    guid: 35e8727f95e198a49a60eb1b4c4b7a46
+  - enabled: 1
+    path: "Assets/Scenes/English/OyunKay\u0131tIng.unity"
+    guid: 05da348008f0fea479bff1cd6893c658
+  - enabled: 1
+    path: Assets/Scenes/English/DeadScaneIng.unity
+    guid: c821e4a0786229647878ccfc6b464197
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/LevelScene.unity"
+    guid: b97d57bf40119af4b9769e752b804871
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye2.unity"
+    guid: 2df33f809055c8846977e47fc21f1aed
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye3.unity"
+    guid: 70cb6bc389500fc4d802a1ae84258606
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye4.unity"
+    guid: efe72c5b34e9fd645957214a8d337d1f
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye5.unity"
+    guid: 54acb3214a0b3ed459bb73f0cb39d4b6
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye6.unity"
+    guid: aeffdbf6cfc4b2640895a5fcfbec7744
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye7.unity"
+    guid: b5dc81bead0fb5549b4c08c6d526df33
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye8.unity"
+    guid: 5f316d95178323f4a83de146f141c20a
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye9.unity"
+    guid: 109b8adbddb73dc4eb759c4f5814973f
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye10.unity"
+    guid: f7996824f63b42d43b97084e45119062
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye11.unity"
+    guid: db251456a6b54234bbbd6869c3da90c8
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye12.unity"
+    guid: 4da43dbb1fff0b34c98d3c6356accf7a
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye13.unity"
+    guid: 1998b20cd12d9df408ed5be13df6db43
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye14.unity"
+    guid: fc0df5d0e9eee62488e498cb7f674b1d
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye15.unity"
+    guid: b6a738840cb5dc84eb1bbfb1d9c270ed
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye1End.unity"
+    guid: d61f2d8d1589cb340806850fa612c065
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye2End.unity"
+    guid: 522473e2ac3f5324a99cac5993d44433
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye3End.unity"
+    guid: e5d63ff83b4b7ac40845cdfccf8ce866
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye4End.unity"
+    guid: 739dc5cc2688f674b89973a5fb485d86
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye5End.unity"
+    guid: 96badbc03af6e5648b464aeb7aa720f4
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye6End.unity"
+    guid: 06bc84594ed1f9143842f28c519b9116
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye7End.unity"
+    guid: 9d8d15c1505853c4c919c43ac5713206
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye8End.unity"
+    guid: 87e47ec53e3ef2548af4022ebbd3b999
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye9End.unity"
+    guid: 60fbd29d6d5cc2042860e1e625923591
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye10End.unity"
+    guid: f5ad50722daf16c4a92e401f96c45ae3
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye11End.unity"
+    guid: 299ee61b7c025214eb68fa894eba4668
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye12End.unity"
+    guid: ffdc3912e8f0be7489f966c7588dca24
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye13End.unity"
+    guid: 788825a668da633468af6e3b1f1696e8
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye14End.unity"
+    guid: b0722403a24c34340a777a16ec3f443a
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/Seviye15End.unity"
+    guid: 9a3bd5093fd8e944e9abc76098104297
+  - enabled: 1
+    path: Assets/Scenes/English/LevelSceneIng.unity
+    guid: 0c2e3866e44f73a4187f91144b2c71dd
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye1_Ing.unity
+    guid: f99b7b881552e43448595f42cef96fa5
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye2_Ing.unity
+    guid: b28d2cc144136b1478d852f06ad5b9a8
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye3_Ing.unity
+    guid: 66885aa6fcdfa0143b719271382ff168
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye4_Ing.unity
+    guid: 445ad408086a1654cb871f116d3804ad
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye5_Ing.unity
+    guid: 1cc0be93129ae324da550d836e7c55b1
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye6_Ing.unity
+    guid: 8f4753b1de8a7f446a5bee158fb6d721
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye7_Ing.unity
+    guid: ef6f887c0109581468568e35dbe94fce
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye8_Ing.unity
+    guid: 057297f78797b584fb82e4329e5e3fa8
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye9_Ing.unity
+    guid: 817a125c81f58384a98c743151f11623
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye10_Ing.unity
+    guid: 01827b20504d22946ad95c1a8e3b420d
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye11_Ing.unity
+    guid: 435f3e4e17baeaa41ab6e160f9441383
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye12_Ing.unity
+    guid: ff06e0766fd7d744fb5bf26a1381748c
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye13_Ing.unity
+    guid: 5beb0ff1dc9f3c649b5ab004daecfdf3
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye14_Ing.unity
+    guid: e7b3f0d973f534a4ba06e4d5c599d6b1
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye15_Ing.unity
+    guid: 167f5a5dc47b96344aee6da862789098
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye1End_Ing.unity
+    guid: 494a96f3fd8e9894d870418724db3cac
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye2End_Ing.unity
+    guid: c97632cc9e65d604cb975594af324c92
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye3End_Ing.unity
+    guid: 8b855615ee5ce2148b510b4a1d46a3a8
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye4End_Ing.unity
+    guid: 86230369138557c469c1c10163dff113
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye5End_Ing.unity
+    guid: e808da93344733c479af51005ad9c302
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye6End_Ing.unity
+    guid: 616a8e0d83bcef04aae26887a68c6eef
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye7End_Ing.unity
+    guid: d71fd51e6b60626489701abdca9793a1
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye8End_Ing.unity
+    guid: 180da7fd6cd817a489330be8c0a6bb34
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye9End_Ing.unity
+    guid: 7ebeae5c7e6e7f846ae746ea70ca4df5
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye10End_Ing.unity
+    guid: 2c04702ec8b59544a9164c10f265daa3
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye11End_Ing.unity
+    guid: c6cf41adbb775dd448565aee29830b09
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye12End_Ing.unity
+    guid: 51a6471e6adaee549bd1a08ca445bf2f
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye13End_Ing.unity
+    guid: 7fbd2c7233de70c4490a0e515619f69b
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye14End_Ing.unity
+    guid: 103b823dc1998554aa87711478c58020
+  - enabled: 1
+    path: Assets/Scenes/English/Seviye15End_Ing.unity
+    guid: 7b0ec277af497434a818c6b7c76d0baa
+  - enabled: 1
+    path: "Assets/Scenes/T\xFCrk\xE7e/GameScene.unity"
+    guid: 505e62f04e54d8047a6eb755068358de
+  - enabled: 1
+    path: Assets/Scenes/English/GameScene_Ing.unity
+    guid: acdc171558eebd9498df6677e5906192
+  m_configObjects: {}

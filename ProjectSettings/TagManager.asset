@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Arrow
+  - Coin
+  - Health
+  - Lock1
+  - Lock
+  - Lock2
+  - Lock3
+  - Lock4
+  - Lock5
+  - Lock6
+  - Lock7
+  - Lock8
+  - Lock9
+  - Lock10
+  - Lock11
+  - Lock12
+  - Lock13
+  - Lock14
+  - Lock15
+  - Lock16
+  - Lock17
+  - Lock18
+  - Lock19
+  - Lock20
+  - Lock21
+  - Lock22
+  - Lock23
+  - Lock24
+  - Lock25
+  - Lock26
+  - Lock27
+  - Lock28
+  - Lock29
+  - Lock30
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
