@@ -41,7 +41,7 @@ public class PlayerManagerIng : MonoBehaviour
         if (health <= 0)
         {
             dead = true;
-            SceneManager.LoadScene(7);
+            SceneManager.LoadScene(6);
         }
     }
 

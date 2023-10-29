@@ -19,12 +19,12 @@ public class MenuManagerMenuScane : MonoBehaviour
 
     public void PlayButton()
     {
-        SceneManager.LoadScene(8);
+        SceneManager.LoadScene(7);
     }
 
     public void ObjectsScane()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
     public void MenuScane()
@@ -48,11 +48,11 @@ public class MenuManagerMenuScane : MonoBehaviour
     }
     public void MenuButtonIng()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(4);
     }
     public void ObjectsButtonIng()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
     public void GameIng()
     {
@@ -81,7 +81,7 @@ public class MenuManagerMenuScane : MonoBehaviour
 
     public void Level1Button()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(8);
         Time.timeScale = 1;
     }
     public void Level2Button()
